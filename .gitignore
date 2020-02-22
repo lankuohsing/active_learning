@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# self-define
+*.idx3-ubyte
+*.idx1-ubyte
